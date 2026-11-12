@@ -1,8 +1,6 @@
-# Rot Radar Minimap
+<img src="https://raw.githubusercontent.com/IsaiahAnson/rot-radar-minimap/main/assets/banner.svg" width="100%" alt="Rot Radar Minimap, a Grain Rot mod by Mentalize. A live minimap of the dungeon you're in. M to toggle, Works as host or client, UE4SS.">
 
-[**Get it on Thunderstore**](https://thunderstore.io/c/grain-rot/p/Mentalize/RotRadarMinimap/)
-
-<img src="icon.png" width="120" align="right" alt="RotRadarMinimap icon">
+<a href="https://thunderstore.io/c/grain-rot/p/Mentalize/RotRadarMinimap/"><img src="https://raw.githubusercontent.com/IsaiahAnson/rot-radar-minimap/stats/downloads.svg" width="100%" alt="Download count and latest version on Thunderstore. Get it on Thunderstore."></a>
 
 **R.E.P.O.-style toggleable minimap for Grain Rot.**
 
